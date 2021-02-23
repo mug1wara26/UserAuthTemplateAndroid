@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UserAuthTemplate</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">1113081122489892
+</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1113081122489892
+</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">u2w4CmM5yHDs02uRrOB5L05b5</string>
+    <string name="twitter_consumer_secret" translatable="false">J22cY0MykbKNWCrTUqIehQs84zlD1NqPBrgwqdg3xyE4eCMFVv</string>
 </resources>
