@@ -8,4 +8,5 @@
     <!-- Twitter consumer key and secret -->
     <string name="twitter_consumer_key" translatable="false">5m4SFYA0PzfiJJc6fwvVsRnYO</string>
     <string name="twitter_consumer_secret" translatable="false">8Ii6N28BpGi7fbQSsolYdBfmPd9KxtlyI6Lhtk2kTImutAokMr</string>
+    <string name="default_text">No user logged in</string>
 </resources>
